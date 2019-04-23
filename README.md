@@ -8,7 +8,7 @@ To start frontend:
 
 1. All 1,500 properties must display on the map. Display the full address of the property in a hover window.
 
-  \[x]
+  - \[x]
 
 2. The user must be able to filter by the values in any column. Categorical values should be in a dropdown, and for numeric values the user should be able to enter a min and max value to filter.
 
@@ -17,7 +17,7 @@ To start frontend:
 
 3. Apply a color gradient to each point using the “estimated_market_value” column, lowest should be red, highest should be green.
 
-  \[x]
+  - \[x]
 
 4. Style should be similar to Vue.js element framework: https://element.eleme.io/#/en-US
 
