@@ -6,6 +6,9 @@ To start server:
 To start frontend:
 `npm run react-dev`
 
+Navigate to:
+`http://localhost:1128/`
+
 1. All 1,500 properties must display on the map. Display the full address of the property in a hover window.
 
   - DONE
